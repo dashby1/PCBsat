@@ -6,5 +6,21 @@ This is a project to develop an opensource cubesat system that is highly modular
 * Source cheap parts which could possibly go to space.
 * PCBs should provide the majority of the structural strength to minimize the need for an a structure
 	* Think like a mechanism to lock each card into the bus similar to a RAM slot on a motherboard
+
+## To Do 
+
+- [] Make a block diagram of PCBsat subsystems
+- [] Apply for funding
+- [] Make mock up satellite model to test strength of card slot connectors
+- [] Mock up design for each subsystem
+  - [] Computer
+  - [] EPS
+  - [] Communication
+  - [] ADCS
+
+## Documentation
+
+Weekly records will be stored in the [Journal](Journal/) folder. Documention of systems will come when they start existing more than an idea and plans for them get made.
+
 ## Progress/Support
 I am a single college student with a part time job, thus progress on this project will probably be slow to say the least as time and money for me are huge constraints. I'm am currently looking into grants and other sources of funding so I can spend more time and resources to work on this project.

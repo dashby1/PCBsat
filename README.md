@@ -9,14 +9,14 @@ This is a project to develop an opensource cubesat system that is highly modular
 
 ## To Do 
 
-- [] Make a block diagram of PCBsat subsystems
-- [] Apply for funding
-- [] Make mock up satellite model to test strength of card slot connectors
-- [] Mock up design for each subsystem
-  - [] Computer
-  - [] EPS
-  - [] Communication
-  - [] ADCS
+- [ ] Make a block diagram of PCBsat subsystems
+- [ ] Apply for funding
+- [ ] Make mock up satellite model to test strength of card slot connectors
+- [ ] Mock up design for each subsystem
+  - [ ] Computer
+  - [ ] EPS
+  - [ ] Communication
+  - [ ] ADCS
 
 ## Documentation
 

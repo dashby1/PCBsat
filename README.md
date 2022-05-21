@@ -6,10 +6,11 @@ This is a project to develop an opensource cubesat system that is highly modular
 * Source cheap parts which could possibly go to space.
 * PCBs should provide the majority of the structural strength to minimize the need for an a structure
 	* Think like a mechanism to lock each card into the bus similar to a RAM slot on a motherboard
+* Secondary Objective is to have 6 cameras, one on each face, to capture 360 images by making a cube map around the satellite. Hopefully leading the way to map 360 images to points in LEO and make a Google Street view type interface with the images.
 
 ## To Do 
 
-- [ ] Make a block diagram of PCBsat subsystems
+- [x] Make a block diagram of PCBsat subsystems
 - [ ] Apply for funding
 - [ ] Make mock up satellite model to test strength of card slot connectors
 - [ ] Mock up design for each subsystem
@@ -17,6 +18,7 @@ This is a project to develop an opensource cubesat system that is highly modular
   - [ ] EPS
   - [ ] Communication
   - [ ] ADCS
+  - [ ] 360 camera
 
 ## Documentation
 

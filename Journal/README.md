@@ -4,12 +4,9 @@ This folder serve as the main documentation for updates, record keeping, and not
 The structure of the journal should be as follows:
 * Journal folder
   * README
-  * (MM/DD - MM/DD, YYYY)
+  * (MM_DD-DD_YYYY)
     * Pictures
     * Notes
     * Useful Refrence Documents. [^1]
 
 [^1]: Please note that the documents in these folders are not my own and belong to their rightful owners and incusion of them in this repository is strictly for documentation purposes.
-
-
-

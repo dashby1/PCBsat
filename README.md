@@ -1,5 +1,7 @@
 # PCBsat
 This is a project to develop an opensource cubesat system that is highly modular by using card slot connectors. This will greatly increase customizability of cubesats and also hopefullly decrease the cost as well. The main goal is to have a low cost cubesat platform which can help people who are limited by their bank account and resources to be able to have the oppurtunity to send a cubesat to space, such as; Community colleges, Highschools, people in low income communities, individuals, etc.
+
+![](System/PCBsat%20Base%20Systems.png)
 ## Goals
 * each subsytem on a pcb will have a cardslot connector on each side, which will plug into the backside of the solar panels which will act as the bus.
 * Make blank cards which will serve as a base for others to create their own modules.
@@ -10,7 +12,7 @@ This is a project to develop an opensource cubesat system that is highly modular
 
 ## To Do 
 
-- [ ] Make a block diagram of PCBsat subsystems
+- [x] Make a block diagram of PCBsat subsystems
 - [ ] Apply for funding
 - [ ] Make mock up satellite model to test strength of card slot connectors
 - [ ] Mock up design for each subsystem

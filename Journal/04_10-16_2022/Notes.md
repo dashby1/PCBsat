@@ -1,0 +1,3 @@
+## 4/10/2022
+* I have been thinking about a "mission" for PCBsat to give the satellite more of a purpose in space. This goal will provide some structure for the first PCBsat. The initial goal is to have a camera on each face of the cubesat to provide a 360 view of space and link them to a position in space to make a Google "street" view type interface but in LEO. 
+* I've had this idea for a deployable antenna for a while. It's crossed dipole antenna but each of the elements in a tape measure type mechanism, thus the antennas are physically inside the cubesat until the get deployed where they will be unwound and go through small slits in the side of the cubesat. I can't think of any significant advantages to this mechanism but its cool.
